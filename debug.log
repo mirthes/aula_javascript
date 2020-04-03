@@ -1,8 +1,26 @@
-[0329/135542.025:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0329/135542.032:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0329/135542.033:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0329/135542.034:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0329/135542.035:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0329/135542.036:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0329/135542.036:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0329/135542.037:ERROR:crash_report_database_win.cc(469)] failed to stat report
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha página</title>
+    <script type="text/javascript" src="js/man.js"><</script>
+</head>
+<body>
+    <h1>Minha página</h1>
+</body>
+</html>[0401/182954.899:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0401/182954.903:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0401/182954.904:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0401/182954.905:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0401/182954.906:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0401/182954.907:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0401/182954.908:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0401/182954.909:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0403/190847.956:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0403/190847.956:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0403/190847.956:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0403/190847.956:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0403/190847.956:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0403/190847.956:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0403/190847.956:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0403/190847.956:ERROR:crash_report_database_win.cc(469)] failed to stat report
